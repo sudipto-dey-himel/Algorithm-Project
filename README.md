@@ -2,17 +2,24 @@
 A registration and login system using C++ This system allows new users to register by providing a unique username and password. Then they can login and reset their password through a command-line interface.
 # Code Overview
 The program uses text files to store user information. Each user has a unique text file named after their username.
+
  -Class: "Registration_and_Login_System":
 This class encapsulates the functions of the registration and login systems.
+
 Mathods:
+  
   -displayMenu():
 Display the main menu with options for registration, login, password reset, and exit.
+  
   -registration():
 Allows the user to register by entering a unique username and password.
+ 
   -login():
 Validates user login by comparing entered credentials with stored information.
+ 
   -forgotPassword():
 Allows users to reset their password by entering a new one.
+  
   -Main Function ('main()'):
 The main() function creates an instance of the 'Registration_and_Login_System' class and runs a loop to interact with the user until they choose to exit.
 # Usage:
