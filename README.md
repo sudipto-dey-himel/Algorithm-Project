@@ -24,7 +24,7 @@ Allows users to reset their password by entering a new one.
 The main() function creates an instance of the 'Registration_and_Login_System' class and runs a loop to interact with the user until they choose to exit.
 # Usage:
 1. Choose an option from the displayed menu (1 for register, 2 for login, 3 for password reset, 4 for exit). If you are a new user, you must register first and then login.
-2. For registration, enter the unique username and password.
+2. For registration, enter an unique username and password.
 3. For logging in, enter the registered username and password.
 4. For resetting the password, enter the registered username and a new password.
 # Here are some images for anyone to understand:
