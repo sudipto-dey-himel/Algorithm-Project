@@ -43,6 +43,11 @@ The main() function creates an instance of the 'Registration_and_Login_System' c
 # If anyone enter the same username twice or more for registration:
 <img width="301" alt="image" src="https://github.com/sudipto-dey-himel/CPP-Project/assets/136897150/85e7101a-8740-4244-868a-5cc052837d56">
 
+# Author
+Sudipto Dey Himel
+
+ID: 222-115-201
+
 
 
 
